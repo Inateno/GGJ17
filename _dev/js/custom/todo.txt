@@ -1,0 +1,9 @@
+1. faire un générateur d'obstacle (procédural plz)
+
+OKOKOK 2. faire l'écran de start 3-2-1 GO
+
+OKOKOK 3. faire l'écran de loose "game over + score"
+
+OKOKOK 4. pouvoir envoyer son meilleur score > input nickname
+
+OKOKOK 5. faire l'écran des scores (popup loaded, marche aussi ingame)
